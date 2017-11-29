@@ -1,6 +1,6 @@
 extends Node2D
 
-var patron = [ 1, 3, 2 ]
+var patron = [ 1, 3, 2, 4, 4, 2, 1, 3  ]
 var currentPosicion = 0
 
 var patronTocado = []
